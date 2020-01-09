@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #434143;
+}
+
+.catchbut {
+  position: absolute;
+  left: 23px;
+  top: 670px;
+  width: 290px;
+  height: 54px;
+  /* border-radius: 50px; */
+  background-color: rgba(255, 0, 0, 0);
+  box-shadow: none;
+  border: none;
+  /* outline: none; */
+}
+
+.catchyesbut {
+  position: absolute;
+  left: -400px;
+  top: 126px;
+  width: 290px;
+  height: 41px;
+  /* border-radius: 50px; */
+  background-color: rgba(255, 0, 0, 0);
+  box-shadow: none;
+  border: none;
+  /* outline: none; */
+}
+
+.catchnobut {
+  position: absolute;
+  left: 42px;
+  top: 165px;
+  width: 290px;
+  height: 38px;
+  /* border-radius: 50px; */
+  background-color: rgba(255, 0, 0, 0);
+  box-shadow: none;
+  border: none;
+  /* outline: none; */
+}
