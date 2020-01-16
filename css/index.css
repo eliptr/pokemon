@@ -9,9 +9,9 @@ body {
 .catchbut {
   position: absolute;
   left: 23px;
-  top: 670px;
+  top: 680px;
   width: 290px;
-  height: 54px;
+  height: 48px;
   /* border-radius: 50px; */
   background-color: rgba(255, 0, 0, 0);
   box-shadow: none;
@@ -38,6 +38,19 @@ body {
   top: 165px;
   width: 290px;
   height: 38px;
+  /* border-radius: 50px; */
+  background-color: rgba(255, 0, 0, 0);
+  box-shadow: none;
+  border: none;
+  /* outline: none; */
+}
+
+.pokedexbut {
+  position: absolute;
+  left: 23px;
+  top: 628px;
+  width: 290px;
+  height: 48px;
   /* border-radius: 50px; */
   background-color: rgba(255, 0, 0, 0);
   box-shadow: none;
